@@ -1,0 +1,7 @@
+Name: Tags
+Type: BaseObjectType
+Children:
+- Name: ModbusTag1
+  Type: ModbusTag
+  DataType: Int32
+  Value: 0
